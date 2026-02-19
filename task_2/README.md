@@ -1,7 +1,7 @@
 # Notes
 <br/>
 <p align="center">
-  <a align="center" target="_blank" href="https://egrrqq.github.io/axaxaxaxaxaxaaxaxaxaxaxaxaaxaxaxaxaxaxaaxaxaxaxaxaxaaxaxaxaxaxaxaaxaxaxaxaxaxaaxaxaxaxaxaxaaxaxaxaxa/"><strong>Live Solution</strong></a>
+  <a align="center" target="_blank" href="https://egrrqq.github.io/rate-exchanger/"><strong>Live Solution</strong></a>
 </p>
 
 # Задание 2
